@@ -1,17 +1,17 @@
-Category	Description	Features	Manufacturer	Mfr part#	Package	Supplier 1	Supplier 1 Part#	CL Location	Reel?	Datasheet	Fotoprint
-											
-Connector	Micro USB B type surface mount connector.		Multicomp	MC001009	SMD	Farnell	2506106	White folder			
-Connector	Micro USB B type reverse surface mount connector.		Multicomp	MC001667	SMD	Farnell	2759097	White folder			
-LED	Orange LED 0603 60mcd		Rohm	SML-D12D8WT86C	‘0603	Farnell	2687484	White folder			
-LED	Red LED 0603 60mcd		Rohm	SML-D12U8WT86C	‘0603	Farnell	2687487	White folder			
-LED	Yellow LED 0603 60mcd		Rohm	SML-D12Y8WT86C	‘0603	Farnell	2687489	White folder			
-LED	Green LED 0603 60mcd		Rohm	SML-D12P8WT86C	‘0603	Farnell	2687486	White folder			
-LED	Red LED 0805 150mcd		TruOpto	OSR50805C1E	0805	Rapid	56-3164	White folder			
-Transistor bipolar	PNP 100mA	PNP	NXP	BC859W	SOT23			White folder	Y		
-Transistor bipolar	NPN 70mA 9GHz	NPN	NXP	BFS520	SOT23			White folder	Y		
-Transistor bipolar	NPN switching general purpose	NPN	Multicomp	BC817	SOT23			White folder	Y		
-Transistor MOSFET	NMOS enhancement logic level 220mA	NMOS	On Semi	BSS138	SOT23			White folder			
-Transistor MOSFET	NMOS enhancement logic level 1.7A	NMOS	On Semi	NDS355	SOT23			White folder			
-Diode	Small signal diode 200mA		On Semi	BAS16	SOT23			White folder	Y		
-Diode	High speed switching diode 		On Semi	MMBD914LT	SOT23			Reel	Y		
-Voltage regulator	1A very low drop voltage regulator 0.8-12V output		ST	LDF33DT	DPAK	Farnell	2435547	White folder			
+Category	Description	Features	Manufacturer	Mfr part#	Package	Supplier 1	Supplier 1 Part#	CL Location	Qty	Restocked	Datasheet	Footprint
+												
+Connector	Micro USB B type surface mount connector.		Multicomp	MC001009	SMD	Farnell	2506106	White folder		5/2018		
+Connector	Micro USB B type reverse surface mount connector.		Multicomp	MC001667	SMD	Farnell	2759097	White folder		5/2018		
+LED	Orange LED 0603 60mcd		Rohm	SML-D12D8WT86C	'0603	Farnell	2687484	White folder		5/2018		
+LED	Red LED 0603 60mcd		Rohm	SML-D12U8WT86C	'0603	Farnell	2687487	White folder		5/2018		
+LED	Yellow LED 0603 60mcd		Rohm	SML-D12Y8WT86C	'0603	Farnell	2687489	White folder		5/2018		
+LED	Green LED 0603 60mcd		Rohm	SML-D12P8WT86C	'0603	Farnell	2687486	White folder		5/2018		
+LED	Red LED 0805 150mcd		TruOpto	OSR50805C1E	'0805	Rapid	56-3164	White folder		5/2018		
+Transistor bipolar	PNP 100mA	PNP	NXP	BC859W	SOT23			White folder	Reel			
+Transistor bipolar	NPN 70mA 9GHz	NPN	NXP	BFS520	SOT23			White folder	Reel			
+Transistor bipolar	NPN switching general purpose	NPN	Multicomp	BC817	SOT23			White folder	Reel			
+Transistor MOSFET	NMOS enhancement logic level 220mA	NMOS	On Semi	BSS138	SOT23			White folder				
+Transistor MOSFET	NMOS enhancement logic level 1.7A	NMOS	On Semi	NDS355	SOT23			White folder				
+Diode	Small signal diode 200mA		On Semi	BAS16	SOT23			White folder	Reel			
+Diode	High speed switching diode 		On Semi	MMBD914LT	SOT23			Reel	Reel			
+Voltage regulator	1A very low drop voltage regulator 0.8-12V output		ST	LDF33DT	DPAK	Farnell	2435547	White folder				
