@@ -1,5 +1,6 @@
 Category	Description	Features	Manufacturer	Mfr part#	Package	Supplier 1	Supplier 1 Part#	CL Location	Qty	Restocked	Datasheet	Footprint
 												
+Capacitor	2.2uF 0805 16V	16V	Multicomp	MCCA000545	'0805	Farnell	1760518	0805 capacitors	Reel			
 Connector	Micro USB B type surface mount connector.		Multicomp	MC001009	SMD	Farnell	2506106	White folder		5/2018		
 Connector	Micro USB B type reverse surface mount connector.		Multicomp	MC001667	SMD	Farnell	2759097	White folder		5/2018		
 LED	Orange LED 0603 60mcd		Rohm	SML-D12D8WT86C	'0603	Farnell	2687484	White folder		5/2018		
@@ -7,6 +8,7 @@ LED	Red LED 0603 60mcd		Rohm	SML-D12U8WT86C	'0603	Farnell	2687487	White folder		
 LED	Yellow LED 0603 60mcd		Rohm	SML-D12Y8WT86C	'0603	Farnell	2687489	White folder		5/2018		
 LED	Green LED 0603 60mcd		Rohm	SML-D12P8WT86C	'0603	Farnell	2687486	White folder		5/2018		
 LED	Red LED 0805 150mcd		TruOpto	OSR50805C1E	'0805	Rapid	56-3164	White folder		5/2018		
+LED	Red LED 0805 15mcd		Kingbright	KP-2012EC	'0805	Farnell	8529949	Other SMD	Reel			
 Transistor bipolar	PNP 100mA	PNP	NXP	BC859W	SOT23			White folder	Reel			
 Transistor bipolar	NPN 70mA 9GHz	NPN	NXP	BFS520	SOT23			White folder	Reel			
 Transistor bipolar	NPN switching general purpose	NPN	Multicomp	BC817	SOT23			White folder	Reel			
