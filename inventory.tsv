@@ -1,14 +1,14 @@
 Category	Description	Features	Manufacturer	Mfr part#	Package	Supplier 1	Supplier 1 Part#	CL Location	Qty	Restocked	Datasheet	Footprint
 												
-Capacitor	2.2uF 0805 16V	16V	Multicomp	MCCA000545	'0805	Farnell	1760518	0805 capacitors	Reel			
-Connector	Micro USB B type surface mount connector.		Multicomp	MC001009	SMD	Farnell	2506106	White folder		5/2018		
-Connector	Micro USB B type reverse surface mount connector.		Multicomp	MC001667	SMD	Farnell	2759097	White folder		5/2018		
-LED	Orange LED 0603 60mcd		Rohm	SML-D12D8WT86C	'0603	Farnell	2687484	White folder		5/2018		
-LED	Red LED 0603 60mcd		Rohm	SML-D12U8WT86C	'0603	Farnell	2687487	White folder		5/2018		
-LED	Yellow LED 0603 60mcd		Rohm	SML-D12Y8WT86C	'0603	Farnell	2687489	White folder		5/2018		
-LED	Green LED 0603 60mcd		Rohm	SML-D12P8WT86C	'0603	Farnell	2687486	White folder		5/2018		
-LED	Red LED 0805 150mcd		TruOpto	OSR50805C1E	'0805	Rapid	56-3164	White folder		5/2018		
-LED	Red LED 0805 15mcd		Kingbright	KP-2012EC	'0805	Farnell	8529949	Other SMD	Reel			
+Capacitor	Capacitor 0805 2.2uF 16V	16V	Multicomp	MCCA000545	'0805	Farnell	1760518	0805 capacitors	Reel			
+Connector	Micro USB B type surface mount connector.		Multicomp	MC001009	SMD	Farnell	2506106	White folder		May-18		
+Connector	Micro USB B type reverse surface mount connector.		Multicomp	MC001667	SMD	Farnell	2759097	White folder		May-18		
+LED	LED 0603 Orange 60mcd		Rohm	SML-D12D8WT86C	'0603	Farnell	2687484	White folder		May-18		
+LED	LED 0603 Red 60mcd		Rohm	SML-D12U8WT86C	'0603	Farnell	2687487	White folder		May-18		
+LED	LED 0603 Yellow 60mcd		Rohm	SML-D12Y8WT86C	'0603	Farnell	2687489	White folder		May-18		
+LED	LED 0603 Green 60mcd		Rohm	SML-D12P8WT86C	'0603	Farnell	2687486	White folder		May-18		
+LED	LED 0805 Red 150mcd		TruOpto	OSR50805C1E	'0805	Rapid	56-3164	White folder		May-18		
+LED	LED 0805 Red 15mcd		Kingbright	KP-2012EC	'0805	Farnell	8529949	Other SMD	Reel			
 Transistor bipolar	PNP 100mA	PNP	NXP	BC859W	SOT23			White folder	Reel			
 Transistor bipolar	NPN 70mA 9GHz	NPN	NXP	BFS520	SOT23			White folder	Reel			
 Transistor bipolar	NPN switching general purpose	NPN	Multicomp	BC817	SOT23			White folder	Reel			
@@ -17,3 +17,106 @@ Transistor MOSFET	NMOS enhancement logic level 1.7A	NMOS	On Semi	NDS355	SOT23			
 Diode	Small signal diode 200mA		On Semi	BAS16	SOT23			White folder	Reel			
 Diode	High speed switching diode 		On Semi	MMBD914LT	SOT23			Reel	Reel			
 Voltage regulator	1A very low drop voltage regulator 0.8-12V output		ST	LDF33DT	DPAK	Farnell	2435547	White folder				
+Resistor	Resistor 0402 0R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 2R7				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 5R1				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 10R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 14R7				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 22R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 33R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 51R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 100R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 120R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 200R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 220R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 390R				0402			0402 Resistors	Reel 500			
+Resistor	Resistor 0402 510R				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 1K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 1K5				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 2K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 2K2				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 2K74				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 3K2				0402			0402 Resistors	Reel 250			
+Resistor	Resistor 0402 4K02				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 13K3				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 14K				0402			0402 Resistors	Reel 150			
+Resistor	Resistor 0402 18k				0402			0402 Resistors	Reel 150			
+Resistor	Resistor 0402 31K6				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 34K8				0402			0402 Resistors	Reel 500			
+Resistor	Resistor 0402 42K2				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 47K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 51K1				0402			0402 Resistors	Reel 500			
+Resistor	Resistor 0402 54K9				0402			0402 Resistors	Reel 200			
+Resistor	Resistor 0402 56K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 100K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 140K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 150K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 174K				0402			0402 Resistors	Reel 250			
+Resistor	Resistor 0402 180K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 182K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 200K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 220K				0402			0402 Resistors	Reel			
+Resistor	Resistor 0402 300K				0402			0402 Resistors	Reel 150			
+Resistor	Resistor 0402 402K				0402			0402 Resistors	Reel 500			
+Resistor	Resistor 0402 464K				0402			0402 Resistors	Reel 500			
+Resistor	Resistor 0402 1M				0402			0402 Resistors	Reel			
+Capacitor	Capacitor 0402 100n				0402			0402 Capacitors	Reel			
+Capacitor	Capacitor 0402 1u				0402			0402 Capacitors	Reel 150			
+Resistor	Resistor 0603 0R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 10R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 15R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 22R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 27R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 33R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 51R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 75R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 100R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 200R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 220R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 330R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 470R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 680R				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 1K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 1K5				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 1K8				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 2K2				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 2K7				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 3K3				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 3K9				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 4K7				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 5K1				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 10k				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 18K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 20K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 22K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 33K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 47k				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 51K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 82K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 100k				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 220K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 560K				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 1M				0603			0603 Resistors	Reel			
+Resistor	Resistor 0603 10M				0603			0603 Resistors	Reel			
+Capacitor	Capacitor 0603 2p2				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 3p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 5p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 10p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 22p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 33p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 39p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 47p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 56p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 100p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 180p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 270p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 470p				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 1n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 3n3				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 4n7				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 10n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 22n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 47n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 56n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 100n				0603			0603 Capacitors	Reel			
+Capacitor	Capacitor 0603 1u				0603			0603 Capacitors	Reel			
